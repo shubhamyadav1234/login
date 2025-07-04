@@ -33,6 +33,6 @@ document.getElementById("button").addEventListener("click",function (e) {
     }
     
     else{
-        alert("login succes")
+        alert("login succesfull")
     }
 })
